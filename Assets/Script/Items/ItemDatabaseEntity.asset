@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 390a3a027cd99fa40938060d6436bcdd, type: 3}
+  m_Name: ItemDatabaseEntity
+  m_EditorClassIdentifier: 
+  items:
+  - type: 0
+    sprite: {fileID: 21300000, guid: f9507d15010b5794eaa33fd930b34cb2, type: 3}
+    zoomPrefab: {fileID: 4286359611988832083, guid: 94c673bb68e5c64489e2b93b9b44e9ea, type: 3}
+  - type: 1
+    sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+    zoomPrefab: {fileID: 5462507298605646888, guid: 7f217cac3db077345b1777246a9148d2, type: 3}
+  - type: 2
+    sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+    zoomPrefab: {fileID: 5462507298605646888, guid: b657607067a585c4aa9c1b11b7e57cdf, type: 3}
+  - type: 4
+    sprite: {fileID: 21300000, guid: 763294752cf081b4caebefa948a1d568, type: 3}
+    zoomPrefab: {fileID: 2358723836038846332, guid: f5d51b39f72e4424ba8740d02e36c025, type: 3}
+  - type: 5
+    sprite: {fileID: 21300000, guid: 8829fe3526cec174f9c66eae77598287, type: 3}
+    zoomPrefab: {fileID: 8670291387780709457, guid: 92b44a7b999885d498b35ff709834e88, type: 3}
+  - type: 3
+    sprite: {fileID: 21300000, guid: ff838a07315d4424fb0b22af40b00be3, type: 3}
+    zoomPrefab: {fileID: 5462507298605646888, guid: 1c129472db3115747b4b7e64b38f8100, type: 3}
